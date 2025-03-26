@@ -1,0 +1,44 @@
+{
+    "header": {
+      "home": "Bosh sahifa",
+      "products": "Mahsulotlar",
+      "contact": "Aloqa",
+      "search": "Gilamlarni qidirish..."
+    },
+    "home": {
+      "hero": {
+        "title": "Yuqori sifatli gilamlar",
+        "subtitle": "Qo'lda to'qilgan gilamlarning eksklyuziv kolleksiyasini kashf eting",
+        "cta": "Xarid qilish"
+      },
+      "featured": "Tanlangan mahsulotlar",
+      "categories": "Kategoriyalar",
+      "trending": "Trend mahsulotlar"
+    },
+    "product": {
+      "addToCart": "Savatga qo'shish",
+      "contact": "Biz bilan bog'laning",
+      "description": "Tavsif",
+      "specifications": "Xususiyatlar",
+      "relatedProducts": "O'xshash mahsulotlar",
+      "material": "Material",
+      "size": "O'lcham",
+      "origin": "Kelib chiqishi"
+    },
+    "contact": {
+      "name": "Ism",
+      "email": "Email",
+      "message": "Xabar",
+      "send": "Xabar yuborish",
+      "success": "Xabar muvaffaqiyatli yuborildi!",
+      "error": "Xabar yuborishda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+    },
+    "footer": {
+      "about": "Biz haqimizda",
+      "terms": "Foydalanish shartlari",
+      "privacy": "Maxfiylik siyosati",
+      "copyright": "© 2024 Carpet. Barcha huquqlar himoyalangan."
+    }
+  }
+  
+  

@@ -1,0 +1,44 @@
+{
+    "header": {
+      "home": "Home",
+      "products": "Products",
+      "contact": "Contact",
+      "search": "Search for carpets..."
+    },
+    "home": {
+      "hero": {
+        "title": "Premium Quality Carpets",
+        "subtitle": "Discover our exclusive collection of handcrafted carpets",
+        "cta": "Shop Now"
+      },
+      "featured": "Featured Products",
+      "categories": "Categories",
+      "trending": "Trending Now"
+    },
+    "product": {
+      "addToCart": "Add to Cart",
+      "contact": "Contact Us",
+      "description": "Description",
+      "specifications": "Specifications",
+      "relatedProducts": "Related Products",
+      "material": "Material",
+      "size": "Size",
+      "origin": "Origin"
+    },
+    "contact": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    },
+    "footer": {
+      "about": "About Us",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "copyright": "© 2024 Carpet. All rights reserved."
+    }
+  }
+  
+  
